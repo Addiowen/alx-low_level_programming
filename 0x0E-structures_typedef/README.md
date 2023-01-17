@@ -5,3 +5,6 @@ Defines a new type `struct dog` with three members `name`, `age` and `owner`.
 This function initializes a variable of type struct dog with the following
 as prototype.
 `void init_dog(struct dog *d, char *name, float age, char *owner);`
+
+## 2-print_dog.c
+is a function that prints a struct dog.

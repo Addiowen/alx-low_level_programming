@@ -11,6 +11,7 @@
  */
 int main(int argc, char *argv[])
 {
-	printf("%s\n", __FILE__);
+	printf("%s", __FILE__);
+	printf("\n");
 	return (0);
 }
